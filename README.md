@@ -1,5 +1,12 @@
 # 🧑‍✈️ GPT PILOT Evaluation by RagaAI AgentNeo🧑‍✈️
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oYBNowEBisOrZ-xdipbHvjy8dsla50jV?usp=sharing)
+
+## Quick Start
+
+To get started with the GPT PILOT evaluation using RagaAI AgentNeo, click the "Open in Colab" button above. This will open a Jupyter notebook in Google Colab where you can run the evaluation code and explore the results interactively.
+
+
 ## RagaAI AgentNeo Integration
 
 We have integrated RagaAI AgentNeo for comprehensive tracing and monitoring of GPT Pilot. This integration provides valuable insights into the AI's decision-making process and performance. Here's how AgentNeo has been added:
